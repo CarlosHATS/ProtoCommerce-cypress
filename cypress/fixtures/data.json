@@ -1,0 +1,8 @@
+{
+  "name": "Carlos",
+  "email": "carlosal@gmail.com",
+  "password": "carlosalve",
+  "gender": "Female",
+  "birth": "1999-10-10",
+  "productName": ["Nokia Edge", "samsung Note 8"]
+}
